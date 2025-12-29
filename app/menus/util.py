@@ -1,0 +1,128 @@
+from html.parser import HTMLParser
+import os
+import re
+import textwrap
+from app.colors import bcolors as Style
+
+def print_header(text, width=55):
+    """Prints a centered header."""
+    print(f"{Style.HEADER}{text.center(width)}{Style.ENDC}")
+
+def format_quota(quota_byte: int) -> str:
+    return format_quota_byte(quota_byte)
+
+def wrap_text(text, width=55):
+    """Wraps text to the given width."""
+    return textwrap.fill(text, width=width)
+
+def clear_screen():
+    print("Clearing screen...")
+    os.system('cls' if os.name == 'nt' else 'clear')
+    ascii_art = r"""
+ __  __     __         __         ______    
+/\_\_\_\   /\ \       /\ \       /\  ___\   
+\/_/\_\/_  \ \ \____  \ \ \____  \ \ \____  
+  /\_\/\_\  \ \_____\  \ \_____\  \ \_____\ 
+  \/_/\/_/   \/_____/   \/_____/   \/_____/
+"""
+
+    print(ascii_art)
+
+def pause():
+    input("\nPress enter to continue...")
+
+class HTMLToText(HTMLParser):
+    def __init__(self, width=80):
+        super().__init__()
+        self.width = width
+        self.result = []
+        self.in_li = False
+
+    def handle_starttag(self, tag, attrs):
+        if tag == "li":
+            self.in_li = True
+        elif tag == "br":
+            self.result.append("\n")
+
+    def handle_endtag(self, tag):
+        if tag == "li":
+            self.in_li = False
+            self.result.append("\n")
+
+    def handle_data(self, data):
+        text = data.strip()
+        if text:
+            if self.in_li:
+                self.result.append(f"- {text}")
+            else:
+                self.result.append(text)
+
+    def get_text(self):
+        # Join and clean multiple newlines
+        text = "".join(self.result)
+        text = re.sub(r"\n\s*\n\s*\n+", "\n\n", text)
+        # Wrap lines nicely
+        return "\n".join(textwrap.wrap(text, width=self.width, replace_whitespace=False))
+
+def display_html(html_text, width=80):
+    parser = HTMLToText(width=width)
+    parser.feed(html_text)
+    return parser.get_text()
+
+def format_quota_byte(quota_byte: int) -> str:
+
+    GB = 1024 ** 3 
+
+    MB = 1024 ** 2
+
+    KB = 1024
+
+
+
+    if quota_byte >= GB:
+
+        return f"{quota_byte / GB:.2f} GB"
+
+    elif quota_byte >= MB:
+
+        return f"{quota_byte / MB:.2f} MB"
+
+    elif quota_byte >= KB:
+
+        return f"{quota_byte / KB:.2f} KB"
+
+    else:
+
+        return f"{quota_byte} B"
+
+
+
+def print_status(status: str, success_message: str, failure_message: str):
+
+
+
+    """Prints a status message with color."""
+
+
+
+    if status == "SUCCESS":
+
+
+
+        print(f"Status: \033[92mSUCCESS\033[0m")
+
+
+
+        print(success_message)
+
+
+
+    else:
+
+
+
+        print(f"Status: \033[91m{status}\033[0m")
+
+
+
+        print(failure_message)
