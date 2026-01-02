@@ -18,9 +18,9 @@ def show_hot_menu():
     in_bookmark_menu = True
     while in_bookmark_menu:
         clear_screen()
-        print("=" * WIDTH)
-        print("🔥 Paket  Hot 🔥".center(WIDTH))
-        print("=" * WIDTH)
+        print(f"{bcolors.HEADER}{'=' * WIDTH}{bcolors.ENDC}")
+        print(f"{bcolors.BOLD}🔥 Paket  Hot 🔥{bcolors.ENDC}".center(WIDTH))
+        print(f"{bcolors.HEADER}{'=' * WIDTH}{bcolors.ENDC}")
         
         hot_packages = []
         
@@ -31,7 +31,7 @@ def show_hot_menu():
             print(f"{idx + 1}. {p['family_name']} - {p['variant_name']} - {p['option_name']}")
             print("-" * WIDTH)
         
-        print("00. Kembali ke menu utama")
+        print(f"00. {bcolors.OKCYAN}Kembali ke menu utama{bcolors.ENDC}")
         print("-" * WIDTH)
         choice = input("Pilih paket (nomor): ")
         if choice == "00":
@@ -78,9 +78,9 @@ def show_hot_menu2():
     while in_bookmark_menu:
         clear_screen()
         main_package_detail = {}
-        print("=" * WIDTH)
-        print("🔥 Paket  Hot 2 🔥".center(WIDTH))
-        print("=" * WIDTH)
+        print(f"{bcolors.HEADER}{'=' * WIDTH}{bcolors.ENDC}")
+        print(f"{bcolors.BOLD}🔥 Paket  Hot 2 🔥{bcolors.ENDC}".center(WIDTH))
+        print(f"{bcolors.HEADER}{'=' * WIDTH}{bcolors.ENDC}")
         
         hot_packages = []
         
@@ -91,7 +91,7 @@ def show_hot_menu2():
             print(f"{idx + 1}. {p['name']}\n   Harga: {p['price']}")
             print("-" * WIDTH)
         
-        print("00. Kembali ke menu utama")
+        print(f"00. {bcolors.OKCYAN}Kembali ke menu utama{bcolors.ENDC}")
         print("-" * WIDTH)
         choice = input("Pilih paket (nomor): ")
         if choice == "00":
