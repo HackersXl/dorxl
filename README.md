@@ -11,7 +11,7 @@ pkg install git -y
 ```
 3. Clone this repo
 ```
-git clone https://github.com/HackersXl/dorxl
+git clone https://github.com/HzStoreXL/dorxl
 ```
 4. Open the folder
 ```
