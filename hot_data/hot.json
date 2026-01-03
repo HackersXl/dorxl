@@ -440,6 +440,14 @@
         "order": 8
     },
     {
+        "family_name": "Sinergi Packages",
+        "family_code": "5f122b1b-3da1-4d62-8e29-e7f987b06af4",
+        "is_enterprise": true,
+        "variant_name": "Sinergi Packages",
+        "option_name": "Sinergi 80GB",
+        "order": 1
+    },
+    {
         "family_name": "Xtra Combo Plus",
         "family_code": "f6197a91-343c-4154-8d6a-b35f2110ce58",
         "is_enterprise": false,
