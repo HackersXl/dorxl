@@ -440,6 +440,14 @@
         "order": 8
     },
     {
+        "family_name": "family buat hide2 paket ADD ON - prepaid",
+        "family_code": "31c9605f-1a3a-4410-ae45-362650bb507d",
+        "is_enterprise": false,
+        "variant_name": "Add On",
+        "option_name": "SP Xtra Unlimited",
+        "order": 1
+    },
+    {
         "family_name": "Sinergi Packages",
         "family_code": "5f122b1b-3da1-4d62-8e29-e7f987b06af4",
         "is_enterprise": true,
