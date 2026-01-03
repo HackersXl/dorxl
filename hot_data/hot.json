@@ -328,6 +328,54 @@
         "order": 1
     },
     {
+        "family_name": "Kuota Aplikasi Xtra Combo Plus 10GB",
+        "family_code": "7658c955-a0b9-405f-bb17-de7f43d1a946",
+        "is_enterprise": false,
+        "variant_name": "Bonus Xtra Combo Plus 10GB",
+        "option_name": "Social Media",
+        "order": 2
+    },
+    {
+        "family_name": "Kuota Aplikasi Xtra Combo Plus 10GB",
+        "family_code": "7658c955-a0b9-405f-bb17-de7f43d1a946",
+        "is_enterprise": false,
+        "variant_name": "Bonus Xtra Combo Plus 10GB",
+        "option_name": "WhatsApp",
+        "order": 3
+    },
+    {
+        "family_name": "Kuota Aplikasi Xtra Combo Plus 10GB",
+        "family_code": "7658c955-a0b9-405f-bb17-de7f43d1a946",
+        "is_enterprise": false,
+        "variant_name": "Bonus Xtra Combo Plus 10GB",
+        "option_name": "Instagram",
+        "order": 6
+    },
+    {
+        "family_name": "Kuota Aplikasi Xtra Combo Plus 10GB",
+        "family_code": "7658c955-a0b9-405f-bb17-de7f43d1a946",
+        "is_enterprise": false,
+        "variant_name": "Bonus Xtra Combo Plus 10GB",
+        "option_name": "Facebook",
+        "order": 7
+    },
+    {
+        "family_name": "Kuota Aplikasi Xtra Combo Plus 10GB",
+        "family_code": "7658c955-a0b9-405f-bb17-de7f43d1a946",
+        "is_enterprise": false,
+        "variant_name": "Bonus Xtra Combo Plus 10GB",
+        "option_name": "YouTube",
+        "order": 8
+    },
+    {
+        "family_name": "Kuota Aplikasi Xtra Combo Plus 10GB",
+        "family_code": "7658c955-a0b9-405f-bb17-de7f43d1a946",
+        "is_enterprise": false,
+        "variant_name": "Bonus Xtra Combo Plus 10GB",
+        "option_name": "TikTok",
+        "order": 9
+    },
+    {
         "family_name": "Xtra Combo Plus",
         "family_code": "f6197a91-343c-4154-8d6a-b35f2110ce58",
         "is_enterprise": false,
