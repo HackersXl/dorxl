@@ -288,6 +288,38 @@
         "order": 1
     },
     {
+        "family_name": "Swadaya Xlalu Untukmu",
+        "family_code": "17edc338-402e-412f-acc4-3f24009cfeaa",
+        "is_enterprise": true,
+        "variant_name": "Swadaya Xlalu Untukmu",
+        "option_name": "2GB",
+        "order": 2
+    },
+    {
+        "family_name": "Swadaya Xlalu Untukmu",
+        "family_code": "17edc338-402e-412f-acc4-3f24009cfeaa",
+        "is_enterprise": true,
+        "variant_name": "Swadaya Xlalu Untukmu",
+        "option_name": "4GB",
+        "order": 3
+    },
+    {
+        "family_name": "Swadaya Xlalu Untukmu",
+        "family_code": "17edc338-402e-412f-acc4-3f24009cfeaa",
+        "is_enterprise": true,
+        "variant_name": "Swadaya Xlalu Untukmu",
+        "option_name": "13GB",
+        "order": 4
+    },
+    {
+        "family_name": "Swadaya Xlalu Untukmu",
+        "family_code": "17edc338-402e-412f-acc4-3f24009cfeaa",
+        "is_enterprise": true,
+        "variant_name": "Swadaya Xlalu Untukmu",
+        "option_name": "25GB",
+        "order": 5
+    },
+    {
         "family_name": "Xtra Combo Plus",
         "family_code": "f6197a91-343c-4154-8d6a-b35f2110ce58",
         "is_enterprise": false,
