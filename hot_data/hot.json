@@ -765,7 +765,7 @@
         "is_enterprise": false,
         "variant_name": "6.000/hari",
         "option_name": "3.5GB",
-        "order": 31
+        "order": 1
     },
     {
         "family_name": "Bebas Puas",
@@ -773,7 +773,7 @@
         "is_enterprise": false,
         "variant_name": "6.000/hari",
         "option_name": "7GB",
-        "order": 32
+        "order": 2
     },
     {
         "family_name": "Bebas Puas",
@@ -781,7 +781,7 @@
         "is_enterprise": false,
         "variant_name": "6.000/hari",
         "option_name": "10.5GB",
-        "order": 33
+        "order": 3
     },
     {
         "family_name": "Bebas Puas",
@@ -789,7 +789,7 @@
         "is_enterprise": false,
         "variant_name": "6.000/hari",
         "option_name": "14GB",
-        "order": 34
+        "order": 4
     },
     {
         "family_name": "Bebas Puas",
@@ -797,7 +797,7 @@
         "is_enterprise": false,
         "variant_name": "6.000/hari",
         "option_name": "17.5GB",
-        "order": 35
+        "order": 5
     },
     {
         "family_name": "Bebas Puas",
@@ -805,7 +805,7 @@
         "is_enterprise": false,
         "variant_name": "6.000/hari",
         "option_name": "21GB",
-        "order": 36
+        "order": 6
     },
     {
         "family_name": "Bebas Puas",
@@ -813,7 +813,7 @@
         "is_enterprise": false,
         "variant_name": "6.000/hari",
         "option_name": "24.5GB",
-        "order": 37
+        "order": 7
     },
     {
         "family_name": "Bebas Puas",
@@ -821,7 +821,7 @@
         "is_enterprise": false,
         "variant_name": "6.000/hari",
         "option_name": "28GB",
-        "order": 38
+        "order": 8
     },
     {
         "family_name": "Bebas Puas",
@@ -829,7 +829,7 @@
         "is_enterprise": false,
         "variant_name": "6.000/hari",
         "option_name": "31.5GB",
-        "order": 39
+        "order": 9
     },
     {
         "family_name": "Bebas Puas",
@@ -837,7 +837,7 @@
         "is_enterprise": false,
         "variant_name": "6.000/hari",
         "option_name": "35GB",
-        "order": 40
+        "order": 10
     },
     {
         "family_name": "Sinergi Packages",
