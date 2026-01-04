@@ -520,6 +520,14 @@
         "order": 10
     },
     {
+        "family_name": "Bebas Puas",
+        "family_code": "d0a349a7-0b3a-4552-bc1d-3fd9ac0a17ee",
+        "is_enterprise": false,
+        "variant_name": "8.000/hari",
+        "option_name": "4.08GB",
+        "order": 1
+    },
+    {
         "family_name": "Sinergi Packages",
         "family_code": "5f122b1b-3da1-4d62-8e29-e7f987b06af4",
         "is_enterprise": true,
