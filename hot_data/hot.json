@@ -888,6 +888,118 @@
         "order": 16
     },
     {
+        "family_name": "Bebas Puas",
+        "family_code": "d0a349a7-0b3a-4552-bc1d-3fd9ac0a17ee",
+        "is_enterprise": false,
+        "variant_name": "6.000/hari",
+        "option_name": "59.5GB",
+        "order": 17
+    },
+    {
+        "family_name": "Bebas Puas",
+        "family_code": "d0a349a7-0b3a-4552-bc1d-3fd9ac0a17ee",
+        "is_enterprise": false,
+        "variant_name": "6.000/hari",
+        "option_name": "63GB",
+        "order": 18
+    },
+    {
+        "family_name": "Bebas Puas",
+        "family_code": "d0a349a7-0b3a-4552-bc1d-3fd9ac0a17ee",
+        "is_enterprise": false,
+        "variant_name": "6.000/hari",
+        "option_name": "66.5GB",
+        "order": 19
+    },
+    {
+        "family_name": "Bebas Puas",
+        "family_code": "d0a349a7-0b3a-4552-bc1d-3fd9ac0a17ee",
+        "is_enterprise": false,
+        "variant_name": "6.000/hari",
+        "option_name": "70GB",
+        "order": 20
+    },
+    {
+        "family_name": "Bebas Puas",
+        "family_code": "d0a349a7-0b3a-4552-bc1d-3fd9ac0a17ee",
+        "is_enterprise": false,
+        "variant_name": "6.000/hari",
+        "option_name": "73.5GB",
+        "order": 21
+    },
+    {
+        "family_name": "Bebas Puas",
+        "family_code": "d0a349a7-0b3a-4552-bc1d-3fd9ac0a17ee",
+        "is_enterprise": false,
+        "variant_name": "6.000/hari",
+        "option_name": "77GB",
+        "order": 22
+    },
+    {
+        "family_name": "Bebas Puas",
+        "family_code": "d0a349a7-0b3a-4552-bc1d-3fd9ac0a17ee",
+        "is_enterprise": false,
+        "variant_name": "6.000/hari",
+        "option_name": "80.5GB",
+        "order": 23
+    },
+    {
+        "family_name": "Bebas Puas",
+        "family_code": "d0a349a7-0b3a-4552-bc1d-3fd9ac0a17ee",
+        "is_enterprise": false,
+        "variant_name": "6.000/hari",
+        "option_name": "84GB",
+        "order": 24
+    },
+    {
+        "family_name": "Bebas Puas",
+        "family_code": "d0a349a7-0b3a-4552-bc1d-3fd9ac0a17ee",
+        "is_enterprise": false,
+        "variant_name": "6.000/hari",
+        "option_name": "87.5GB",
+        "order": 25
+    },
+    {
+        "family_name": "Bebas Puas",
+        "family_code": "d0a349a7-0b3a-4552-bc1d-3fd9ac0a17ee",
+        "is_enterprise": false,
+        "variant_name": "6.000/hari",
+        "option_name": "91GB",
+        "order": 26
+    },
+    {
+        "family_name": "Bebas Puas",
+        "family_code": "d0a349a7-0b3a-4552-bc1d-3fd9ac0a17ee",
+        "is_enterprise": false,
+        "variant_name": "6.000/hari",
+        "option_name": "94.5GB",
+        "order": 27
+    },
+    {
+        "family_name": "Bebas Puas",
+        "family_code": "d0a349a7-0b3a-4552-bc1d-3fd9ac0a17ee",
+        "is_enterprise": false,
+        "variant_name": "6.000/hari",
+        "option_name": "98GB",
+        "order": 28
+    },
+    {
+        "family_name": "Bebas Puas",
+        "family_code": "d0a349a7-0b3a-4552-bc1d-3fd9ac0a17ee",
+        "is_enterprise": false,
+        "variant_name": "6.000/hari",
+        "option_name": "101.5GB",
+        "order": 29
+    },
+    {
+        "family_name": "Bebas Puas",
+        "family_code": "d0a349a7-0b3a-4552-bc1d-3fd9ac0a17ee",
+        "is_enterprise": false,
+        "variant_name": "6.000/hari",
+        "option_name": "105GB",
+        "order": 30
+    },
+    {
         "family_name": "Sinergi Packages",
         "family_code": "5f122b1b-3da1-4d62-8e29-e7f987b06af4",
         "is_enterprise": true,
