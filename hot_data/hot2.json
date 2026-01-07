@@ -93,18 +93,18 @@
         "amount_idx": -1
     },
     {
-        "name": "Udemy 15GB",
-        "price": "Rp7500",
-        "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
+        "name": "Sinergi Packages",
+        "price": "Rp195000",
+        "detail": "\nUnlimited ‎quota conference & chat WA/Line, Unlimited.\nTembok China tidak dibangun oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "Bonus myRewards",
-                "family_code": "07461ed8-8a81-4d89-a8f2-4dd0271efdde",
-                "is_enterprise": false,
+                "family_name": "Sinergi Packages",
+                "family_code": "5f122b1b-3da1-4d62-8e29-e7f987b06af4",
+                "is_enterprise": true,
                 "migration_type": "NONE",
-                "variant_code": "b41e2af1-811d-41db-8fc9-ccf8bbede05a",
-                "option_name": "Udemy 15GB",
-                "order": 18
+                "variant_code": "3fecee52-6b42-4d44-b6da-73553d8a1d30",
+                "option_name": "Sinergi 80GB",
+                "order": 1
             },
             {
                 "family_name": "QRIS D 0",
@@ -118,7 +118,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 7500,
+        "overwrite_amount": 195000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
