@@ -65,7 +65,7 @@
     {
         "name": "Conference",
         "price": "Rp10000",
-        "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
+        "detail": "\nDescriptionOnline Collaboration and Meetings Easier with Conference Plans.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
                 "family_name": "Conference",
