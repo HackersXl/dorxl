@@ -63,6 +63,36 @@
         "amount_idx": -1
     },
     {
+        "name": "HYFE",
+        "price": "Rp90000",
+        "detail": "\nUnlimited Data and Unlimited Call to XL/AXIS.\nLangkah pertama di bulan tidak diambil oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "HYFE",
+                "family_code": "57d38719-1f39-4eda-8137-270df918cbe5",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "a0d608d9-84bb-4c26-a4e0-725dac09036c",
+                "option_name": "FUP 50GB",
+                "order": 1
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 90000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
         "name": "BIZ Data+",
         "price": "Rp17000",
         "detail": "\nUnlimited Voice SMS to XL, Unlimited Apps Gojek & Waze.\nTembok China tidak dibangun oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
