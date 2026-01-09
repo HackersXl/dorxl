@@ -64,7 +64,7 @@
     },
     {
         "name": "BIZ Data+",
-        "price": "Rp17000",
+        "price": "Rp75000",
         "detail": "\nUnlimited Voice SMS to XL, Unlimited Apps Gojek & Waze.\nTembok China tidak dibangun oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
@@ -88,7 +88,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": true,
-        "overwrite_amount": 17000,
+        "overwrite_amount": 75000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
