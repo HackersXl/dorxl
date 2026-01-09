@@ -69,12 +69,12 @@
         "packages": [
             {
                 "family_name": "myPRIO X Unlimited",
-                "family_code": "57d38719-1f39-4eda-8137-270df918cbe5",
+                "family_code": "162d261b-05c7-450c-9b7a-1873b160140c",
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
                 "option_name": "FUP 50GB",
-                "order": 1
+                "order": 26
             },
             {
                 "family_name": "QRIS D 0",
