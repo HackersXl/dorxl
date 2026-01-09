@@ -64,13 +64,13 @@
     },
     {
         "name": "BIZ Data+",
-        "price": "Rp75000",
+        "price": "Rp17000",
         "detail": "\nUnlimited Voice SMS to XL, Unlimited Apps Gojek & Waze.\nTembok China tidak dibangun oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
                 "family_name": "BIZ Data+",
                 "family_code": "32fab9aa-4ff5-4938-b012-672e60a239d3",
-                "is_enterprise": false,
+                "is_enterprise": true,
                 "migration_type": "NONE",
                 "variant_code": "a37b65ed-f76a-4181-9f3c-aa39ae4fcd8f",
                 "option_name": "Swadaya XLalu Untukmu 7D",
@@ -79,7 +79,7 @@
             {
                 "family_name": "QRIS D 0",
                 "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": false,
+                "is_enterprise": true,
                 "migration_type": "NONE",
                 "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
                 "option_name": "QRIS D 0",
@@ -87,8 +87,8 @@
             }
         ],
         "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": true,
-        "overwrite_amount": 75000,
+        "ask_overwrite": false,
+        "overwrite_amount": 17000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
@@ -117,7 +117,7 @@
             }
         ],
         "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": true,
+        "ask_overwrite": false,
         "overwrite_amount": 43000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
@@ -177,7 +177,7 @@
             }
         ],
         "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": true,
+        "ask_overwrite": false,
         "overwrite_amount": 195000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
@@ -207,7 +207,7 @@
             }
         ],
         "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": true,
+        "ask_overwrite": false,
         "overwrite_amount": 145000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
@@ -237,7 +237,7 @@
             }
         ],
         "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": true,
+        "ask_overwrite": false,
         "overwrite_amount": 85000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
@@ -267,7 +267,7 @@
             }
         ],
         "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
+        "ask_overwrite": true,
         "overwrite_amount": 80000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
