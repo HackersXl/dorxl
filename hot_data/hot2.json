@@ -68,7 +68,7 @@
         "detail": "\nUnlimited Data and Unlimited Call to XL/AXIS.\nLangkah pertama di bulan tidak diambil oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "PRIO_HYBRID",
+                "family_name": "HYFE",
                 "family_code": "57d38719-1f39-4eda-8137-270df918cbe5",
                 "is_enterprise": true,
                 "migration_type": "NONE",
