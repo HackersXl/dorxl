@@ -72,9 +72,6 @@
                 "family_code": "19134305-27f1-48ea-be9d-afc425e60aca",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "migration_type=PRE_TO_PRIOH.
-                "migration_type=PRE_TO_PRIOH.
-                "migration_type=PRE_TO_PRIOH.
                 "variant_code": "18900b67-c447-4e31-b9e1-ab4335a1b512",
                 "option_name": "PRIO Silver",
                 "order": 1
@@ -84,9 +81,6 @@
                 "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
                 "is_enterprise": true,
                 "migration_type": "NONE",
-                "migration_type=PRE_TO_PRIOH.
-                "migration_type=PRE_TO_PRIOH.
-                "migration_type=PRE_TO_PRIOH.
                 "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
                 "option_name": "QRIS D 0",
                 "order": 11
@@ -122,7 +116,7 @@
                 "order": 11
             }
         ],
-        "payment_for": "SHARE_PACKAGE",
+        "payment_for": "ANY",
         "ask_overwrite": false,
         "overwrite_amount": 17000,
         "token_confirmation_idx": 1,
