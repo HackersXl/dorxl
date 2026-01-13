@@ -63,18 +63,18 @@
         "amount_idx": -1
     },
     {
-        "name": "Conference",
-        "price": "Rp10000",
-        "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
+        "name": "Special Holiday",
+        "price": "Rp25000",
+        "detail": "\nTerms & Conditions of Spesial Nataru 10GB.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "Conference",
-                "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
-                "is_enterprise": true,
+                "family_name": "Special Holiday",
+                "family_code": "3768520d-ea07-49c7-b9a5-3c57e28255ce",
+                "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
-                "option_name": "Conference 15GB",
-                "order": 3
+                "variant_code": "9e33c21b-521a-4470-90f5-882018eeb7b5",
+                "option_name": "Spesial Nataru 10GB",
+                "order": 1
             },
             {
                 "family_name": "QRIS D 0",
@@ -88,7 +88,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 10000,
+        "overwrite_amount": 25000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
