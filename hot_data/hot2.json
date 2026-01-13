@@ -64,7 +64,7 @@
     },
     {
         "name": "Special Holiday",
-        "price": "Rp65000",
+        "price": "Rp25000",
         "detail": "\nTerms & Conditions of Spesial Nataru 10GB.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
@@ -88,7 +88,7 @@
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 65000,
+        "overwrite_amount": 25000,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
