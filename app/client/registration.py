@@ -5,7 +5,7 @@ def validate_puk(
     msisdn: str,
     puk: str,
 ) -> dict:
-    path = "api/v9/infos/validate-puk"
+    path = "api/v8/infos/validate-puk"
 
     raw_payload = {
         "is_enterprise": False,
@@ -25,7 +25,7 @@ def dukcapil(
     kk: str,
     nik: str,
 ) -> dict:
-    path = "api/v9/auth/regist/dukcapil"
+    path = "api/v8/auth/regist/dukcapil"
 
     raw_payload = {
         "msisdn": msisdn,
