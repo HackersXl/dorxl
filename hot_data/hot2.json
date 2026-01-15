@@ -70,7 +70,7 @@
             {
                 "family_name": "BIZ Data+",
                 "family_code": "53de8ac3-521d-43f5-98ce-749ad0481709",
-                "is_enterprise": ftrue,
+                "is_enterprise": true,
                 "migration_type": "NONE",
                 "variant_code": "e8ea6f67-397b-48c1-b87c-980c72f91e64",
                 "option_name": "BIZ Data+ 12GB",
