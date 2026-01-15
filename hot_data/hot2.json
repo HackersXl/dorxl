@@ -70,7 +70,7 @@
             {
                 "family_name": "BIZ Data+",
                 "family_code": "53de8ac3-521d-43f5-98ce-749ad0481709",
-                "is_enterprise": false,
+                "is_enterprise": ftrue,
                 "migration_type": "NONE",
                 "variant_code": "e8ea6f67-397b-48c1-b87c-980c72f91e64",
                 "option_name": "BIZ Data+ 12GB",
@@ -79,7 +79,7 @@
             {
                 "family_name": "QRIS D 0",
                 "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
+                "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
                 "option_name": "QRIS D 0",
