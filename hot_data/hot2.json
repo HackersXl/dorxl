@@ -120,7 +120,7 @@
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 50000,
-        "token_confirmation_idx": 0,
+        "token_confirmation_idx": 1,
         "amount_idx": -1
     },
     {
