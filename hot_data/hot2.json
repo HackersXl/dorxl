@@ -64,6 +64,36 @@
     },
     {
         "name": "Special For You",
+        "price": "Rp150000",
+        "detail": "\nFlexMax, package with Big Main Quota that can be used in all network.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Special For You",
+                "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "64f25a7d-11d3-4de6-a527-cf69b880ad8d",
+                "option_name": "FlexMax 150GB",
+                "order": 1
+            },
+            {
+                "family_name": "",
+                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
+                "option_name": "",
+                "order": 1
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 150000,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
+        "name": "Special For You",
         "price": "Rp50000",
         "detail": "\nFlexMax, package with Big Main Quota that can be used in all network.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
@@ -89,36 +119,6 @@
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 50000,
-        "token_confirmation_idx": 0,
-        "amount_idx": -1
-    },
-    {
-        "name": "BIZ Data+",
-        "price": "Rp17000",
-        "detail": "\nUnlimited Voice SMS to XL, Unlimited Apps Gojek & Waze.\nTembok China tidak dibangun oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
-        "packages": [
-            {
-                "family_name": "BIZ Data+",
-                "family_code": "32fab9aa-4ff5-4938-b012-672e60a239d3",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "a37b65ed-f76a-4181-9f3c-aa39ae4fcd8f",
-                "option_name": "Swadaya XLalu Untukmu 7D",
-                "order": 1
-            },
-            {
-                "family_name": "",
-                "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "db832d6c-ee4c-4f4a-8132-47ab8676ea90",
-                "option_name": "",
-                "order": 1
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": true,
-        "overwrite_amount": 17000,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
