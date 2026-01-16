@@ -117,7 +117,7 @@
             }
         ],
         "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
+        "ask_overwrite": true,
         "overwrite_amount": 17000,
         "token_confirmation_idx": 0,
         "amount_idx": -1
