@@ -108,13 +108,13 @@
             },
             {
                 "family_name": "",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "family_code": "",
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_name": "",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "variant_code": "",
                 "option_name": "",
-                "order": 27
+                "order":
             }
         ],
         "payment_for": "BUY_PACKAGE",
