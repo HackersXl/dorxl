@@ -94,7 +94,7 @@
     },
     {
         "name": "Special For You",
-        "price": "Rp51000",
+        "price": "Rp50000",
         "detail": "\nFlexMax, package with Big Main Quota that can be used in all network.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
@@ -108,18 +108,18 @@
             },
             {
                 "family_name": "",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_name": "",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "variant_code": "64f25a7d-11d3-4de6-a527-cf69b880ad8d",
                 "option_name": "",
-                "order": 27
+                "order": 7
             }
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 51000,
+        "overwrite_amount": 50000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
