@@ -157,6 +157,99 @@
     },
     {
         "name": "Special For You",
+        "price": "Rp90000",
+        "detail": "\nFlexMax, package with Big Main Quota that can be used in all network.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Special For You",
+                "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "64f25a7d-11d3-4de6-a527-cf69b880ad8d",
+                "option_name": "FlexMax 50GB",
+                "order": 4
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_name": "QRIS D 0",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "",
+                "order": 12
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 90000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Special For You",
+        "price": "Rp75000",
+        "detail": "\nFlexMax, package with Big Main Quota that can be used in all network.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Special For You",
+                "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "64f25a7d-11d3-4de6-a527-cf69b880ad8d",
+                "option_name": "FlexMax 37GB",
+                "order": 5
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_name": "QRIS D 0",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "",
+                "order": 12
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 75000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Special For You",
+        "price": "Rp60000",
+        "detail": "\nFlexMax, package with Big Main Quota that can be used in all network.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Special For You",
+                "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "64f25a7d-11d3-4de6-a527-cf69b880ad8d",
+                "option_name": "FlexMax 25GB",
+                "order": 6
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_name": "QRIS D 0",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "",
+                "order": 12
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 60000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Special For You",
         "price": "Rp50000",
         "detail": "\nFlexMax, package with Big Main Quota that can be used in all network.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
@@ -183,6 +276,192 @@
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 50000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Special For You",
+        "price": "Rp45000",
+        "detail": "\nFlexMax, package with Big Main Quota that can be used in all network.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Special For You",
+                "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "64f25a7d-11d3-4de6-a527-cf69b880ad8d",
+                "option_name": "FlexMax 15GB",
+                "order": 8
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_name": "QRIS D 0",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "",
+                "order": 12
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 45000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Special For You",
+        "price": "Rp35000",
+        "detail": "\nFlexMax, package with Big Main Quota that can be used in all network.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Special For You",
+                "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "64f25a7d-11d3-4de6-a527-cf69b880ad8d",
+                "option_name": "FlexMax 10GB",
+                "order": 9
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_name": "QRIS D 0",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "",
+                "order": 12
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 35000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Special For You",
+        "price": "Rp75000",
+        "detail": "\nFlexMax, package with Big Main Quota that can be used in all network.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Special For You",
+                "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "64f25a7d-11d3-4de6-a527-cf69b880ad8d",
+                "option_name": "FlexMax 75GB",
+                "order": 10
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_name": "QRIS D 0",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "",
+                "order": 12
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 75000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Special For You",
+        "price": "Rp50000",
+        "detail": "\nFlexMax, package with Big Main Quota that can be used in all network.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Special For You",
+                "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "64f25a7d-11d3-4de6-a527-cf69b880ad8d",
+                "option_name": "FlexMax 33GB",
+                "order": 11
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_name": "QRIS D 0",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "",
+                "order": 12
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 50000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Special For You",
+        "price": "Rp35000",
+        "detail": "\nFlexMax, package with Big Main Quota that can be used in all network.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Special For You",
+                "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "64f25a7d-11d3-4de6-a527-cf69b880ad8d",
+                "option_name": "FlexMax 17GB",
+                "order": 12
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_name": "QRIS D 0",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "",
+                "order": 12
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 35000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Special For You",
+        "price": "Rp25000",
+        "detail": "\nFlexMax, package with Big Main Quota that can be used in all network.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Special For You",
+                "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "64f25a7d-11d3-4de6-a527-cf69b880ad8d",
+                "option_name": "FlexMax 10GB",
+                "order": 13
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_name": "QRIS D 0",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "",
+                "order": 12
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 25000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
