@@ -126,6 +126,37 @@
     },
     {
         "name": "Special For You",
+        "price": "Rp100000",
+        "detail": "\nFlexMax, package with Big Main Quota that can be used in all network.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Special For You",
+                "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "64f25a7d-11d3-4de6-a527-cf69b880ad8d",
+                "option_name": "FlexMax 65GB",
+                "order": 3
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_name": "QRIS D 0",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "",
+                "order": 12
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 100000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Special For You",
         "price": "Rp50000",
         "detail": "\nFlexMax, package with Big Main Quota that can be used in all network.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
@@ -213,96 +244,6 @@
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 65000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "Sinergi Packages",
-        "price": "Rp195000",
-        "detail": "\nUnlimited ‎quota conference & chat WA/Line, Unlimited.\nTembok China tidak dibangun oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
-        "packages": [
-            {
-                "family_name": "Sinergi Packages",
-                "family_code": "5f122b1b-3da1-4d62-8e29-e7f987b06af4",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "3fecee52-6b42-4d44-b6da-73553d8a1d30",
-                "option_name": "Sinergi 80GB",
-                "order": 1
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
-            }
-        ],
-        "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 195000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "Sinergi Packages",
-        "price": "Rp145000",
-        "detail": "\nUnlimited ‎quota conference & chat WA/Line, Unlimited.\nTembok China tidak dibangun oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
-        "packages": [
-            {
-                "family_name": "Sinergi Packages",
-                "family_code": "5f122b1b-3da1-4d62-8e29-e7f987b06af4",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "3fecee52-6b42-4d44-b6da-73553d8a1d30",
-                "option_name": "Sinergi 43GB",
-                "order": 2
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
-            }
-        ],
-        "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 145000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "Sinergi Packages",
-        "price": "Rp85000",
-        "detail": "\nUnlimited ‎quota conference & chat WA/Line, Unlimited.\nTembok China tidak dibangun oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
-        "packages": [
-            {
-                "family_name": "Sinergi Packages",
-                "family_code": "5f122b1b-3da1-4d62-8e29-e7f987b06af4",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "3fecee52-6b42-4d44-b6da-73553d8a1d30",
-                "option_name": "Sinergi 22GB",
-                "order": 3
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 13
-            }
-        ],
-        "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 85000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
