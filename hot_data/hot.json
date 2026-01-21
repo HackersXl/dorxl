@@ -1249,7 +1249,7 @@
     },
     {
         "family_name": "Xtra Combo Plus",
-        "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+        "family_code": "1241f5ef-2dea-4d79-b7a7-7ca7a85290fd",
         "is_enterprise": false,
         "variant_name": "Reguler",
         "option_name": "8.5GB",
@@ -1265,10 +1265,10 @@
     },
     {
         "family_name": "Xtra Combo Plus",
-        "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+        "family_code": "1241f5ef-2dea-4d79-b7a7-7ca7a85290fd",
         "is_enterprise": false,
         "variant_name": "Reguler",
-        "option_name": "7gb",
+        "option_name": "5gb",
         "order": 18
     },
     {
