@@ -534,18 +534,18 @@
             {
                 "family_name": "BIZ Prepaid",
                 "family_code": "20342db0-e03e-4dfd-b2d0-cd315d7ddc36",
-                "is_enterprise": False,
+                "is_enterprise": true,
                 "migration_type": "NONE",
                 "variant_code": "d0adce55-7d0e-4f60-89c5-0847810824ce",
                 "option_name": "BIZ Starter",
                 "order": 1
             },
             {
-                "family_name": "QRIS D 0",
+                "family_name": "",
                 "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
                 "is_enterprise": true,
                 "migration_type": "NONE",
-                "variant_name": "QRIS D 0",
+                "variant_name": "",
                 "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
                 "option_name": "",
                 "order": 12
