@@ -551,7 +551,7 @@
             }
         ],
         "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
+        "ask_overwrite": true,
         "overwrite_amount": 49000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
