@@ -551,7 +551,7 @@
                 "price": 11000
             }
         ],
-        "payment_for": "SHARE_PACKAGE",
+        "payment_for": "ANY",
         "ask_overwrite": false,
         "overwrite_amount": 11000,
         "token_confirmation_idx": 1,
