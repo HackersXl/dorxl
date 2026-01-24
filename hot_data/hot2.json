@@ -546,15 +546,15 @@
                 "is_enterprise": true,
                 "migration_type": "PRIOH_TO_PRIO",
                 "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
-                "option_name": "Conference 2GB",
-                "order": 1,
-                "price": 2000
+                "option_name": "Conference 15GB",
+                "order": 3,
+                "price": 10000
             }
         ],
-        "payment_for": "SHARE_PACKAGE",
+        "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 10,
-        "token_confirmation_idx": 0,
+        "token_confirmation_idx": 1,
         "amount_idx": -1
     },
     {
