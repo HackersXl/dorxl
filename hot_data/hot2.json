@@ -572,15 +572,15 @@
                 "order": 3
             },
             {
-                "family_name": "",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
-                "is_enterprise": true,
-                "migration_type": "PRIOH_TO_PRIO",
-                "variant_name": "",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "",
-                "order": 27
-            }
+    "family_name": "Conference",
+    "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
+    "is_enterprise": true,
+    "migration_type": "PRIOH_TO_PRIO",
+    "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
+    "option_name": "Conference 2GB",
+    "order": 1,
+    "price": 2000
+}
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
