@@ -527,6 +527,37 @@
         "amount_idx": -1
     },
     {
+        "name": "EduConference",
+        "price": "Rp10",
+        "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "EduConference",
+                "family_code": "b249f4d5-bcca-4f11-81f4-c5bf26d61664",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "e3eef70d-028d-45c8-a52c-fc358ae2f0dc",
+                "option_name": "30GB - Rp 10",
+                "order": 1
+            },
+            {
+                "family_name": "Kuota Aplikasi BIZ 2GB",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "Vidio 2GB",
+                "order": 11,
+                "price": 0
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 10,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
         "name": "Conference",
         "price": "Rp11000",
         "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
