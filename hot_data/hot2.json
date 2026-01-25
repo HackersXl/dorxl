@@ -86,10 +86,10 @@
                 "order": 1
             }
         ],
-        "payment_for": "SHARE_PACKAGE",
+        "payment_for": "BUY_PACKAGE",
         "ask_overwrite": true,
         "overwrite_amount": 150000,
-        "token_confirmation_idx": 1,
+        "token_confirmation_idx": 0,
         "amount_idx": -1
     },
     {
