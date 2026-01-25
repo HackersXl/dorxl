@@ -572,13 +572,13 @@
                 "order": 3
             },
             {
-                "family_name": "",
+                "family_name": "Conference",
                 "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
                 "is_enterprise": true,
                 "migration_type": "PRIOH_TO_PRIO",
                 "variant_name": "",
                 "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "",
+                "option_name": "Conference 15GB",
                 "order": 27
             }
         ],
