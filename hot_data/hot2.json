@@ -425,7 +425,7 @@
                 "order": 14
             }
         ],
-        "payment_for": "SHARE_PACKAGE",
+        "payment_for": "ANY",
         "ask_overwrite": false,
         "overwrite_amount": 35000,
         "token_confirmation_idx": 1,
