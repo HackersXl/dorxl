@@ -409,7 +409,7 @@
                 "family_name": "Special For You",
                 "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
                 "is_enterprise": false,
-                "migration_type": "NONE",
+                "migration_type": "PACKAGE",
                 "variant_code": "64f25a7d-11d3-4de6-a527-cf69b880ad8d",
                 "option_name": "FlexMax 17GB",
                 "order": 12
