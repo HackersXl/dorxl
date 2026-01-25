@@ -410,26 +410,26 @@
                 "family_name": "Special For You",
                 "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
                 "is_enterprise": false,
-                "migration_type": "PACKAGE",
+                "migration_type": "NONE",
                 "variant_code": "64f25a7d-11d3-4de6-a527-cf69b880ad8d",
                 "option_name": "FlexMax 17GB",
                 "order": 12
             },
             {
-                "family_name": "QRIS D 0",
+                "family_name": "Kuota Aplikasi BIZ 2GB",
                 "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
                 "is_enterprise": true,
-                "migration_type": "PACKAGE",
-                "variant_name": "QRIS D 0",
+                "migration_type": "NONE",
                 "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "",
-                "order": 14
+                "option_name": "Vidio 2GB",
+                "order": 11,
+                "price": 0
             }
         ],
-        "payment_for": "ANY",
+        "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 35000,
-        "token_confirmation_idx": 1,
+        "token_confirmation_idx": 0,
         "amount_idx": -1
     },
     {
