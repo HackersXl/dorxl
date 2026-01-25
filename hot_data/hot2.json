@@ -576,9 +576,10 @@
                 "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
                 "is_enterprise": true,
                 "migration_type": "PRIOH_TO_PRIO",
+                "variant_name"1: "Conference",
                 "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
-                "option_name": "Conference 5GB",
-                "order": 2
+                "option_name": "Conference 15GB",
+                "order": 3
             }
         ],
         "payment_for": "BUY_PACKAGE",
