@@ -243,18 +243,19 @@ def show_hot_menu2():
                     in_bookmark_menu = False
                 elif input_method == "3":
                     show_qris_payment(api_key, tokens, payment_items, payment_for, 
-                                      selected_package.get("ask_overwrite", False),
+                                      selected_package.get("ask_overwrite", True),
                                       selected_package.get("overwrite_amount", -1),
-                                      selected_package.get("token_confirmation_idx", 0),
+                                      selected_package.get("token_confirmation_idx", 1),
                                       selected_package.get("amount_idx", -1))
                     input(f"{bcolors.OKGREEN}Tekan enter untuk kembali...{bcolors.ENDC}")
-                    in_payment_menu = False
-                    in_bookmark_menu = False
+                    in_payment_menu = True
+                    in_bookmark_menu = True
                 elif input_method == "00":
-                    in_payment_menu = False
+                    in_payment_menu = True
                 else:
                     print(f"{bcolors.FAIL}Metode tidak valid.{bcolors.ENDC}")
                     pause()
         else:
             print(f"{bcolors.FAIL}Input tidak valid.{bcolors.ENDC}")
+
             pause()
