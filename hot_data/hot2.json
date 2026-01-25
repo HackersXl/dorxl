@@ -579,13 +579,13 @@
     "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
     "option_name": "Conference 15GB",
     "order": 3,
-    "price": 11000
+    "price": 0
 }
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 11000,
-        "token_confirmation_idx": 1,
+        "token_confirmation_idx": 0,
         "amount_idx": -1
     },
     {
