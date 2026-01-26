@@ -472,7 +472,7 @@
                 "family_name": "BIZ",
                 "family_code": "d004d498-e8a8-4e22-b8b1-b71b7652b409",
                 "is_enterprise": true,
-                "migration_type": "DEFAULT",
+                "migration_type": "PRIOH_TO_PRIO",
                 "variant_code": "853ae1c9-f383-4a47-b5b4-75e297e5bf16",
                 "option_name": "BIZ Prime - NEW",
                 "order": 1
@@ -481,7 +481,7 @@
                 "family_name": "QRIS D 0",
                 "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
                 "is_enterprise": true,
-                "migration_type": "PACKAGE",
+                "migration_type": "PRIOH_TO_PRIO",
                 "variant_name": "QRIS D 0",
                 "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
                 "option_name": "",
