@@ -472,7 +472,7 @@
                 "family_name": "BIZ",
                 "family_code": "d004d498-e8a8-4e22-b8b1-b71b7652b409",
                 "is_enterprise": true,
-                "migration_type": "PACKAGE",
+                "migration_type": "DEFAULT",
                 "variant_code": "853ae1c9-f383-4a47-b5b4-75e297e5bf16",
                 "option_name": "BIZ Prime - NEW",
                 "order": 1
