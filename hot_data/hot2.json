@@ -15,19 +15,19 @@
                 "order": 19
             },
             {
-                "family_name": "XL PASS",
-                "family_code": "fff99b6b-5a5d-4ba4-a55b-38f6aca6f91d",
+                "family_name": "Vidio Ultimate",
+                "family_code": "e2dbb9ed-bc4c-4d09-9e1f-78d54ec9917d",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "6986897d-9f09-4651-ac24-6efdf3dbcf3d",
-                "option_name": "XL PASS 30 days",
+                "variant_code": "9614fdf7-e5c5-487f-9106-46ef22c9d202",
+                "option_name": "All Screen 30 days + 5GB",
                 "order": 1,
                 "price": 0
             }
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 800000,
+        "overwrite_amount": 145000,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
