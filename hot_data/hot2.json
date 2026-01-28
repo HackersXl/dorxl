@@ -17,8 +17,8 @@
             {
     "family_name": "PRIO PASS",
     "family_code": "2512b72a-a3cd-4c70-a736-132cf2c1f0c0",
-    "is_enterprise": nul,
-    "migration_type": nul,
+    "is_enterprise": false,
+    "migration_type": false,
     "variant_code": "cff298bd-8ec8-4696-b689-12407d36be15",
     "option_name": "PRIO PASS 1 day",
     "order": 5,
