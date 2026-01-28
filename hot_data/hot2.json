@@ -21,8 +21,8 @@
                 "migration_type": null,
                 "variant_code": "cff298bd-8ec8-4696-b689-12407d36be15",
                 "option_name": "PRIO PASS 30 Days",
-                "order": 1,
-                "price": 999000
+                "order": 5,
+                "price": 0
             }
         ],
         "payment_for": "BUY_PACKAGE",
