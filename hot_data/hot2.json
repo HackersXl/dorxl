@@ -22,12 +22,12 @@
                 "variant_code": "cff298bd-8ec8-4696-b689-12407d36be15",
                 "option_name": "PRIO PASS 30 Days",
                 "order": 5,
-                "price": 0
+                "price": 78000
             }
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 999000,
+        "overwrite_amount": 78000,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
