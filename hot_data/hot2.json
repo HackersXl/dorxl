@@ -15,19 +15,19 @@
                 "order": 19
             },
             {
-                "family_name": "Vidio Ultimate",
-                "family_code": "e2dbb9ed-bc4c-4d09-9e1f-78d54ec9917d",
+                "family_name": "PRIO PASS",
+                "family_code": "c298651a-2502-42ac-a052-9b97210a831c",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "9614fdf7-e5c5-487f-9106-46ef22c9d202",
-                "option_name": "All Screen 30 days + 5GB",
+                "variant_code": "6f0c84dd-9630-4216-aa7f-1951afd1d06f",
+                "option_name": "PRIO PASS 30 Days",
                 "order": 1,
                 "price": 0
             }
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 145000,
+        "overwrite_amount": 900000,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
